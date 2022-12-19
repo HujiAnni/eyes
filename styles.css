@@ -7,21 +7,22 @@ body {
 .head {
   width: 50vw;
   height: 50vw;
-  top: 5%;
-  bottom: 5%;
+  top: 1%;
   margin: 0 auto;
   position: relative;
   background: #0B8362;  
   border-top-left-radius: 20%;
   border-top-right-radius: 20%;
+  border-bottom-right-radius: 2.5%;
+  border-bottom-left-radius: 2.5%;
 }
 
 .hair {
   width: 50vw;
   height: 10vw;
   background-color: #34343B;
-  border-top-left-radius: 20%;
-  border-top-right-radius: 20%;
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
 }
 
 .scar {
@@ -112,6 +113,11 @@ body {
   position: relative;
   width: 20vw;
   height: 0.5vw;
-  background-color: #fff;
-
+  /* background-color: #262626; */
+  left:27.5%;
+  
+  border: solid 0.5vw #262626;
+  border-color:  transparent transparent #262626 transparent;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
 }
