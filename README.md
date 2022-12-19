@@ -3,30 +3,17 @@
 <img src="https://pyxis.nymag.com/v1/imgs/91e/001/973cb64ce94251d70694bcc566c39fb172-24-frankenstein.2x.rsocial.w600.jpg">
 
 
-A fun Factory Project, originated from PacMen Factory Project, and inspired by Sherlock Holmes's "The Science of Deduction". 
+Say hi to Frankenstein -- his eyes follow you when your mouse moves!
 
-Languages: Javascript, CSS, and HTML 
+Languages:  CSS, Javascript, and HTML 
 <br>
+
 ## Description
-This Project is an Evidence Factory, which mimic the three steps of detective work and Science of Deduction:
-<ol>
-<li>Gather Evidence</li>
-<li>Observe and deducing</li>
-<li>Eliminate the impossible and conclusion</li>
-</ol>
+This Project is an reactive webpage build around Halloween. Whenever you move, the eyes of Frankenstein will follow your mouse movements.
+
+Have fun and happy Halloween!!
 
 <br>
-
-### *"I observe everything. From what I observe, I deduce everything. When I’ve eliminated the impossible, whatever remains, no matter how mad it might seem, must be the truth." -- Sherlock Holmes*
-<br>
-<br>
-
-Press the "Gather Evidence" button to collect as many evidences as you want you find necessary.
-Then, press "Start Deduction" to see them moving all over your screen.
-Last but not least, click on the evidence you want to remove (eliminate the impossible).
-
-Feel free to gather more evidence and change their moving speed by re-clicking "Gather Evidence" and "Start Deduction".
-
 
 ## Demo
 
@@ -34,16 +21,15 @@ Feel free to gather more evidence and change their moving speed by re-clicking "
 <br>
 
 ## How to Run
-You can access this Project by clicking on this <a href="https://hujianni.github.io/The-Science-Of-Deduction/" target="_blank">link</a>. Press "Gather Evidence" to add at least one evidence on the screen, then you can either continue to create more, or press "Start Deduction" to 
-you should open the index.html file and Press Create to have your first Figure on screen, afterwards, you can create as many as you want and make them move randomly accross the screen by pressing the Start Game Button.
+You can access this Project by clicking on this <a href="https://hujianni.github.io/eyes/" target="_blank">link</a>. 
+When the page is loaded, move your mouse around the screen and you'll see the eyes following your mouse movements.
 
 <br>
 
 ## Future improvements
-- [x] Further beautify the interface
-- [x] Add more evidence to the array
-- [ ] Adjust limit number of certain evidence (eg. Morgue)
-- [x] Make the project responsive to mobile or tablet display
+- [ ] Further beautify the Frankenstein's face
+- [ ] Change face expresssions given a certain user action
+- [ ] Add more themes for users to choose from and present accordingly
 <br>
 
 ## License information
