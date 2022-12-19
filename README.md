@@ -29,7 +29,7 @@ When the page is loaded, move your mouse around the screen and you'll see the ey
 ## Future improvements
 - [ ] Further beautify the Frankenstein's face
 - [ ] Change face expresssions given a certain user action
-- [ ] Add more themes for users to choose from and present accordingly
+- [ ] Add more themes for users to choose from and present accordingly (e.g. Minions)
 <br>
 
 ## License information
