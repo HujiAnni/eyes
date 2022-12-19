@@ -1,33 +1,117 @@
 body {
   margin: 0;
   padding: 0;
-  background: #14495e;
+  background-color: #000;
 }
 
+.head {
+  width: 50vw;
+  height: 50vw;
+  top: 5%;
+  bottom: 5%;
+  margin: 0 auto;
+  position: relative;
+  background: #0B8362;  
+  border-top-left-radius: 20%;
+  border-top-right-radius: 20%;
+}
+
+.hair {
+  width: 50vw;
+  height: 10vw;
+  background-color: #34343B;
+  border-top-left-radius: 20%;
+  border-top-right-radius: 20%;
+}
+
+.scar {
+  position: relative;
+  width: 20vw;
+  height: 0.5vw;
+  top: 7.5%;
+  background-color: #34343B;
+  left: 50%;
+  transform: rotate(9deg);
+}
+
+.scar-1,
+.scar-2,
+.scar-3, 
+.scar-4,
+.scar-5 {
+  position: relative;
+  width: 3vw;
+  height: 0.5vw;
+  top: 4%;
+  left: 49%;
+  background-color: #34343B;
+  transform: rotate(120deg);
+}
+
+.scar-1 { 
+  left: 49%;
+}
+
+.scar-2 { 
+  left: 58%;
+}
+
+.scar-3 { 
+  left: 67%;
+}
+
+.scar-4 { 
+  left: 76%;
+}
+
+.scar-5 { 
+  left: 85%;
+}
+
+
 .eyes {
-  position: absolute;
-  top: 50%;
+  position: relative;
+  top: 10%;
+  margin: 15% auto;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
 }
+
 .eye {
-  width: 240px;
-  height: 120px;
-  background: #fff;
+  width: 12vw;
+  height: 10vw;
+  background: #E3E4C7;
+  position: relative;
+  top: 22.5%;
   display: inline-block;
-  margin: 40px;
-  border-radius: 50%;
+  margin: 7.5% 6.5% 0 6.5%;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+
   position: relative;
   overflow: hidden;
+ 
 }
+
 .ball {
-  width: 80px;
-  height: 80px;
-  background: #000;
+  width: 6vw;
+  height: 6vw;
+  background: #262626;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50%;
+}
+
+
+.mouth {
+  position: relative;
+  width: 20vw;
+  height: 0.5vw;
+  background-color: #fff;
+
 }
