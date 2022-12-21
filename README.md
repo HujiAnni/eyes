@@ -1,4 +1,4 @@
-# The Science of Deduction
+# EYEs On You
 
 <img src="https://pyxis.nymag.com/v1/imgs/91e/001/973cb64ce94251d70694bcc566c39fb172-24-frankenstein.2x.rsocial.w600.jpg">
 
