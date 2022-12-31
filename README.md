@@ -16,7 +16,7 @@ Have fun and happy Halloween!!
 <br>
 
 ## Demo
-<img src="/images/demo-eyes.gif" alt="Demo GIF">
+<img src="/images/demo-eyes.gif" alt="Demo GIF" style="height: 500px">
 
 <br>
 
