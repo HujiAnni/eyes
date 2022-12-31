@@ -1,6 +1,6 @@
 # EYEs On You
 
-<img src="https://pyxis.nymag.com/v1/imgs/91e/001/973cb64ce94251d70694bcc566c39fb172-24-frankenstein.2x.rsocial.w600.jpg">
+<img src="https://pyxis.nymag.com/v1/imgs/91e/001/973cb64ce94251d70694bcc566c39fb172-24-frankenstein.2x.rsocial.w600.jpg" alt="Intro Image">
 
 
 Say hi to Frankenstein -- his eyes follow you when your mouse moves!
@@ -16,7 +16,7 @@ Have fun and happy Halloween!!
 <br>
 
 ## Demo
-
+<img src="/images/demo-eyes.gif" alt="Demo GIF">
 
 <br>
 
